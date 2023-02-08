@@ -29,15 +29,15 @@ Files／檔案：
 		- Requirements／要求: 
 			- \[English\] Copy & Paste this paragraph: 
 				```
-a. Taiwan(R.O.C.)'s Ministry of Digital Affairs [2022] [全字庫]
-b. The Open Data is made available to the public under the Open Government Data License, User can make use of it when complying to the condition and obligation of its terms.
-c. Open Government Data License: https://data.gov.tw/license
-```
+				a. Taiwan(R.O.C.)'s Ministry of Digital Affairs [2022] [全字庫]
+				b. The Open Data is made available to the public under the Open Government Data License, User can make use of it when complying to the condition and obligation of its terms.
+				c. Open Government Data License: https://data.gov.tw/license
+				```
 			- \[中文\] 複製貼上此段文字:
 				```
-1. 中華民國數位發展部 [2022] [全字庫]
-2. 此開放資料依政府資料開放授權條款進行公眾釋出，使用者於遵守本條款各項規定之前提下，得利用之。
-3. 政府資料開放授權條款：https://data.gov.tw/license
-```
+				1. 中華民國數位發展部 [2022] [全字庫]
+				2. 此開放資料依政府資料開放授權條款進行公眾釋出，使用者於遵守本條款各項規定之前提下，得利用之。
+				3. 政府資料開放授權條款：https://data.gov.tw/license
+				```
 	- SIL OPEN FONT LICENSE (OFL 1.1)／開源字型授權 1.1 版（[Details／詳細內容]( https://opensource.org/licenses/OFL-1.1 )）
 		- Requirements／要求: Free to use. ／自由使用。
