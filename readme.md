@@ -16,13 +16,13 @@ Two fonts that's created by the Master Ideographs Seeker under Taiwan(R.O.C.)'s 
 
 Files／檔案：
 - 全字庫正楷體
-	- `TW-Kai`: [`TW-Kai-98_1.ttf`]( ./TW-Kai-98_1.ttf ) （[Direct Link／直接連結]( https://raw.githubusercontent.com/XiaoPanPanKevinPan/fontCollection/main/TW-Kai-98_1.ttf )）
-	- `TW-Kai-Ext-B`: [`TW-Kai-Ext-B-98_1.ttf`]( ./TW-Kai-Ext-B-98_1.ttf )（[Direct Link／直接連結]( https://raw.githubusercontent.com/XiaoPanPanKevinPan/fontCollection/main/TW-Kai-Ext-B-98_1.ttf )）
-	- `TW-Kai-Plus`: [`TW-Kai-Plus-98_1.ttf`]( ./TW-Kai-Plus-98_1.ttf )（[Direct Link／直接連結]( https://raw.githubusercontent.com/XiaoPanPanKevinPan/fontCollection/main/TW-Kai-Plus-98_1.ttf )）
+	- U+0000-U+FFFF `TW-Kai`: [`TW-Kai-98_1.ttf`]( ./TW-Kai-98_1.ttf ) （[Direct Link／直接連結]( https://raw.githubusercontent.com/XiaoPanPanKevinPan/fontCollection/main/TW-Kai-98_1.ttf )）
+	- U+20000-U+2FFFF `TW-Kai-Ext-B`: [`TW-Kai-Ext-B-98_1.ttf`]( ./TW-Kai-Ext-B-98_1.ttf )（[Direct Link／直接連結]( https://raw.githubusercontent.com/XiaoPanPanKevinPan/fontCollection/main/TW-Kai-Ext-B-98_1.ttf )）
+	- U+F0000-U+FFFFF `TW-Kai-Plus`: [`TW-Kai-Plus-98_1.ttf`]( ./TW-Kai-Plus-98_1.ttf )（[Direct Link／直接連結]( https://raw.githubusercontent.com/XiaoPanPanKevinPan/fontCollection/main/TW-Kai-Plus-98_1.ttf )）
 - 全字庫正宋體
-	- `TW-Sung`: [`TW-Sung-98_1.ttf`]( ./TW-Sung-98_1.ttf ) （[Direct Link／直接連結]( https://raw.githubusercontent.com/XiaoPanPanKevinPan/fontCollection/main/TW-Sung-98_1.ttf )）
-	- `TW-Sung-Ext-B`: [`TW-Sung-Ext-B-98_1.ttf`]( ./TW-Sung-Ext-B-98_1.ttf )（[Direct Link／直接連結]( https://raw.githubusercontent.com/XiaoPanPanKevinPan/fontCollection/main/TW-Sung-Ext-B-98_1.ttf )）
-	- `TW-Sung-Plus`: [`TW-Sung-Plus-98_1.ttf`]( ./TW-Sung-Plus-98_1.ttf )（[Direct Link／直接連結]( https://raw.githubusercontent.com/XiaoPanPanKevinPan/fontCollection/main/TW-Sung-Plus-98_1.ttf )）
+	- U+0000-U+FFFF `TW-Sung`: [`TW-Sung-98_1.ttf`]( ./TW-Sung-98_1.ttf ) （[Direct Link／直接連結]( https://raw.githubusercontent.com/XiaoPanPanKevinPan/fontCollection/main/TW-Sung-98_1.ttf )）
+	- U+20000-U+2FFFF `TW-Sung-Ext-B`: [`TW-Sung-Ext-B-98_1.ttf`]( ./TW-Sung-Ext-B-98_1.ttf )（[Direct Link／直接連結]( https://raw.githubusercontent.com/XiaoPanPanKevinPan/fontCollection/main/TW-Sung-Ext-B-98_1.ttf )）
+	- U+F0000-U+FFFFF `TW-Sung-Plus`: [`TW-Sung-Plus-98_1.ttf`]( ./TW-Sung-Plus-98_1.ttf )（[Direct Link／直接連結]( https://raw.githubusercontent.com/XiaoPanPanKevinPan/fontCollection/main/TW-Sung-Plus-98_1.ttf )）
 
 - License／授權: 
 	- Open Government Data License, version 1.0／政府資料開放授權條款-第一版（[Details／詳細內容]( https://data.gov.tw/license )）
