@@ -1,6 +1,8 @@
 # Font Collection／字體蒐集
 Here are some fonts that are free to use under certain conditions. ／此為一些在符合要求時可自由使用的字體。
 
+Files with the suffix `_regen` in their name are those regenerated (i.e., they're not the original ones). Use it with caution - but that should be fine with CC-ND granted fonts. ／檔案名後綴有 `_regen` 的檔案是重新生成的檔案（即，他們並非原始檔案）。請謹慎使用之——但這對 CC-禁止改作 所授權的字型不應該沒什麼大不了的。
+
 ## 教育部標準楷書
 A font that's created by Taiwan(R.O.C.)'s Ministry of Education. ／由中華民國教育部研發的字體。
 
