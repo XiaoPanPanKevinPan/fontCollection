@@ -1,7 +1,7 @@
 # Font Collection／字體蒐集
 Here are some fonts that are free to use under certain conditions. ／此為一些在符合要求時可自由使用的字體。
 
-## 教育部正楷體
+## 教育部標準楷書
 A font that's created by Taiwan(R.O.C.)'s Ministry of Education. ／由中華民國教育部研發的字體。
 
 Files／檔案：
