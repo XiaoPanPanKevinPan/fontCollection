@@ -1,7 +1,7 @@
 # Font Collection／字體蒐集
 Here are some fonts that are free to use under certain conditions. ／此為一些在符合要求時可自由使用的字體。
 
-Files with the suffix `_regen` in their name are those regenerated (i.e., they're not the original ones). Use it with caution - but that should be fine with CC-ND granted fonts. ／檔案名後綴有 `_regen` 的檔案是重新生成的檔案（即，他們並非原始檔案）。請謹慎使用之——但這對 CC-禁止改作 所授權的字型不應該沒什麼大不了的。
+Files with the suffix `_regen` in their name are those regenerated (i.e., they're not the original ones). Use it with caution - but that should be fine with CC-ND granted fonts. ／檔案名後綴有 `_regen` 的檔案是重新生成的檔案（即，他們並非原始檔案）。請謹慎使用之——但這對 CC-禁止改作 所授權的字型應該沒什麼大不了的。
 
 ## 教育部標準楷書
 A font that's created by Taiwan(R.O.C.)'s Ministry of Education. ／由中華民國教育部研發的字體。
@@ -10,11 +10,11 @@ Files／檔案：
 - `TW-Moe-Std-Kai`：[`edukai-4.0.ttf`]( ./edukai-4.0.ttf ) （[Direct Link／直接連結]( https://raw.githubusercontent.com/XiaoPanPanKevinPan/fontCollection/main/edukai-4.0.ttf )）
 
 - License／授權: CC-BY-SA 3.0 TW ／創用 CC 姓名標示-禁止改作 3.0 臺灣版（[Details／詳細內容]( https://creativecommons.org/licenses/by-nd/3.0/tw/ )）
-	- Requirements／要求: Tag "中華民國教育部" (the Ministry of Education of R.O.C.)／標註「中華民國教育部」
+	- Requirements／要求: Mention "中華民國教育部" (the Ministry of Education of R.O.C.)／標註「中華民國教育部」
 - Source: [教育部 語文成果網]( https://language.moe.gov.tw/result.aspx?classify_sn=23&subclassify_sn=436&content_sn=10 )
 
 ## 全字庫正楷體 & 全字庫正宋體
-Two fonts that's created by the Master Ideographs Seeker under Taiwan(R.O.C.)'s Ministry of Digital Affairs. ／由中華民國數位發展部下轄之全字庫開發之兩個字體。
+Two fonts that's created by the Master Ideographs Seeker under Taiwan(R.O.C.)'s Ministry of Digital Affairs. ／由中華民國數位發展部下轄之全字庫開發的兩個字體。
 
 Files／檔案：
 - 全字庫正楷體
